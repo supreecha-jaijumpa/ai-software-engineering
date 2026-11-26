@@ -6,31 +6,28 @@
 
 | | |
 |--|--|
-| 🔥 **Current Streak** | 0 days |
-| 🏆 **Best Streak Ever** | 0 days |
-| 📅 **Last Session** | — |
-| 📊 **Total Sessions** | 0 |
-| ⏱️ **Total Study Time** | 0 hours |
+| 🔥 **Current Streak** | 1 day |
+| 🏆 **Best Streak Ever** | 1 day |
+| 📅 **Last Session** | 2026-11-26 |
+| 📊 **Total Sessions** | 1 |
+| ⏱️ **Total Study Time** | ~1.5 hours |
 
 ---
 
-## This Month
+## This Month (November 2026)
 
 > Mark each day you studied with ✓
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
-|     |     |     |     |     |     |     |
+|     |     |     | 26 ✓ |     |     |     |
 
 ---
 
 ## Milestones
 
 ### Sessions
-- [ ] First session completed
+- [x] First session completed (2026-11-26)
 - [ ] 5 sessions done
 - [ ] 10 sessions done
 - [ ] 25 sessions done
@@ -44,7 +41,7 @@
 - [ ] 30-day streak 🏆
 
 ### Learning Progress
-- [ ] First topic passed
+- [x] First topic passed (2026-11-26)
 - [ ] First module unlocked
 - [ ] Level 1 complete — AI Fundamentals
 - [ ] Level 2 complete — Claude Code Mastery

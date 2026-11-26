@@ -8,6 +8,6 @@ Organized to mirror `modules/` — one file per topic. Topics taught across mult
 
 | Module | Topic | Lecture | Last updated |
 |--------|-------|---------|--------------|
-| _none yet_ | | | |
+| 01 — AI Fundamentals | 1.1 LLMs — Capabilities & Limitations | [1.1](01-ai-fundamentals/1.1-llm-capabilities-and-limitations.md) | 2026-11-26 |
 
 > Rule: lectures contain **knowledge only** — concepts, examples, diagrams, pitfalls, recall questions. No student names, scores, or personal progress (that lives in `progress/`).

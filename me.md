@@ -16,7 +16,7 @@
 ## AI Tooling Today
 - **Tools I use:** Claude Code, ChatGPT
 - **How I use them:** Claude Code for daily coding; ChatGPT for consulting / discussion
-- **Practice repo:** `D:\classroom\ai-sofftware-engineering-hand-on` — currently empty, not a git repo yet. First task: initialize it (suggested: capstone app in Next.js + Go/Gin/GORM)
+- **Practice repo:** `D:\classroom\ai-software-engineering-hands-on` — created 2026-11-26, empty, not a git repo yet. First task: initialize it (suggested: capstone app in Next.js + Go/Gin/GORM)
 
 ## Self-Assessment (0 = zero, 10 = expert)
 > Filled in during /init-classroom

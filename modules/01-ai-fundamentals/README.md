@@ -1,6 +1,6 @@
 # Module 01: AI Fundamentals
 
-> Status: 🔒 Locked (Session 1 will unlock this)
+> Status: 🟡 In progress (unlocked 2026-11-26)
 > Estimated Time: 2 weeks (Weeks 1–2)
 > Level: 1
 > Fast Track: If you use Claude Code daily, skim — but still do topics 1.5, 1.9, and the milestone comparison. They are the vocabulary for everything later.
